@@ -1,0 +1,8 @@
+id: test
+tasks:
+  - id: fist_task
+    fn: com.gs.return
+    args:
+      id: 1234567
+      name: yaswanth
+      email: yasswanth@godspeed
