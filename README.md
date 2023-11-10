@@ -10,4 +10,4 @@
 
 5. For curl - use below command to get response `curl -X POST -H "Content-Type: application/json" --data '{"query": "query { hello { id, name, email } }"}' http://localhost:3000/graphql`
 
-6. You will get this response for api call. `{"data":{"hello":{"id":"1234567","name":"yaswanth","email":"yasswanth@godspeed"}}}`
+6. You will get this response for api call. `{"data":{"hello":{"id":"1234567","name":"yaswanth","email":"yaswanth@gmail.com"}}}`
